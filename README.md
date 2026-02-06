@@ -2,9 +2,13 @@
 I designed and deployed a secure Microsoft Azure cloud infrastructure using multiple Linux virtual machines, network security controls, and containerized applications. The environment was built as a personal cybersecurity lab to practice cloud security, Docker containerization, and network hardening techniques.
 
 🏗️ Architecture Components
+
 🔹 Virtual Machines (Linux)
+
 •	Jump Box (Bastion Host) – Secure administrative access point
+
 •	Web-1 – Web server running containerized application
+
 •	Web-2 – Web server for redundancy and load balancing
 
 🔹 Networking & Security
